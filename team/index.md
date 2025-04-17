@@ -9,7 +9,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-博士生 (PhD students):
+**博士生 (PhD students):**
 
 ​	王波（Wang, B.)
 
@@ -26,7 +26,7 @@ nav:
 ​	桂锦江 (Gui, J.J.)
 
 
-硕士生 (Master students):
+**硕士生 (Master students):**
 
 ​	张泽辰（Zhang, Z.C.)
 
@@ -40,12 +40,12 @@ nav:
 
 ​	袁刘帅（Yuan, L.S.)
 
-本科生(Undergraduate):
+**本科生(Undergraduate):**
 
 ​	郑林泽（Zheng, L.Z.)
 
-​	李松毅（Li S.Y.)
+​	李松毅（Li, S.Y.)
 
-​	张梓峰（Zhang Z.F.)
+​	张梓峰（Zhang, Z.F.)
 
-​	徐洋（Xu Y.)
+​	徐洋（Xu, Y.)
