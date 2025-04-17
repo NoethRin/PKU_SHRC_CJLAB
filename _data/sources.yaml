@@ -6,3 +6,19 @@
 - id: doi:10.21437/Interspeech.2021-24
   type: paper
   description: INTERSPEECH 2021
+
+- id: doi:10.23919/EUSIPCO54536.2021.9616195
+  type: paper
+  description: 29th European Signal Processing Conference (EUSIPCO)
+
+- id: doi:10.23919/EUSIPCO54536.2021.9616059
+  type: paper
+  description: 29th European Signal Processing Conference (EUSIPCO)
+
+- id: doi:10.1121/10.0005807
+  type: paper
+  description: JASA Express Letters
+
+- id: doi:10.3389/fnins.2021.664985
+  type: paper
+  description: Frontiers in Neuroscience
