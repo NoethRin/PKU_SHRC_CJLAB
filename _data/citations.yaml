@@ -33,3 +33,66 @@
   description: INTERSPEECH 2021
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.23919/EUSIPCO54536.2021.9616195
+  title: Auditory Attention Decoding from EEG using Convolutional Recurrent Neural
+    Network
+  authors:
+  - Zhen Fu
+  - Bo Wang
+  - Xihong Wu
+  - Jing Chen
+  publisher: 2021 29th European Signal Processing Conference (EUSIPCO)
+  date: '2021-08-23'
+  link: https://doi.org/g9fvqp
+  type: paper
+  description: 29th European Signal Processing Conference (EUSIPCO)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.23919/EUSIPCO54536.2021.9616059
+  title: Eye-gaze Estimation with HEOG and Neck EMG using Deep Neural Networks
+  authors:
+  - Zhen Fu
+  - Bo Wang
+  - Fei Chen
+  - Xihong Wu
+  - Jing Chen
+  publisher: 2021 29th European Signal Processing Conference (EUSIPCO)
+  date: '2021-08-23'
+  link: https://doi.org/gpz2k5
+  type: paper
+  description: 29th European Signal Processing Conference (EUSIPCO)
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1121/10.0005807
+  title: Categorical perception of lexical tones based on acoustic-electric stimulation
+  authors:
+  - Yadong Niu
+  - Yuhe Liu
+  - Xihong Wu
+  - Jing Chen
+  publisher: JASA Express Letters
+  date: '2021-08-01'
+  link: https://doi.org/g9fvqq
+  type: paper
+  description: JASA Express Letters
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fnins.2021.664985
+  title: Common Brain Substrates Underlying Auditory Speech Priming and Perceived
+    Spatial Separation
+  authors:
+  - Junxian Wang
+  - Jing Chen
+  - Xiaodong Yang
+  - Lei Liu
+  - Chao Wu
+  - Lingxi Lu
+  - Liang Li
+  - Yanhong Wu
+  publisher: Frontiers in Neuroscience
+  date: '2021-06-17'
+  link: https://doi.org/gpc7wk
+  type: paper
+  description: Frontiers in Neuroscience
+  plugin: sources.py
+  file: sources.yaml
