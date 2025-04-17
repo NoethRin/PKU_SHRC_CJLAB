@@ -29,28 +29,3 @@ nav:
   text="personal page"
   link="https://sai.pku.edu.cn/info/1362/2249.htm"
 %}
-
-{% include section.html %}
-
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="北京大学机器感知与智能教育部重点实验室"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="北京大学智能学院"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
-
