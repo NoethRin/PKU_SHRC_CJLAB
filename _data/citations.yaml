@@ -15,7 +15,21 @@
   date: '2024-02-02'
   link: https://arxiv.org/abs/2401.04964
   type: paper
-  description: ICASSP
+  description: ICASSP 2024
   image: images/wbicasspw.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.21437/Interspeech.2021-24
+  title: Effect of Carrier Bandwidth on Understanding Mandarin Sentences in Simulated
+    Electric-Acoustic Hearing
+  authors:
+  - Feng Wang
+  - Jing Chen
+  - Fei Chen
+  publisher: Interspeech 2021
+  date: '2021-08-30'
+  link: https://doi.org/g9fvqd
+  type: paper
+  description: INTERSPEECH 2021
   plugin: sources.py
   file: sources.yaml
