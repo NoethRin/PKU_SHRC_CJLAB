@@ -108,3 +108,21 @@
   type: paper
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.heares.2004.03.010
+  title: The effect of perceived spatial separation on informational masking of Chinese
+    speech
+  authors:
+  - Xihong Wu
+  - Chun Wang
+  - Jing Chen
+  - Hongwei Qu
+  - Wenrui Li
+  - Yanhong Wu
+  - Bruce A. Schneider
+  - Liang Li
+  publisher: Hearing Research
+  date: '2005-01-01'
+  link: https://doi.org/bwj795
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
