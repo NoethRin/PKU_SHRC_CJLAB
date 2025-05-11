@@ -1,7 +1,6 @@
-- id: arxiv:2401.04964
+- id: doi:10.1109/ICASSPW62465.2024.10625969
   type: paper
   description: ICASSP 2024
-  image: "images/wbicasspw.png"
 
 - id: doi:10.21437/Interspeech.2021-24
   type: paper
